@@ -2,7 +2,7 @@
 ## BIOL551: Computer Modeling - _Spring 2022_
 **Created by:** Joynaline Hart  
 **Class's repository:** [Spring-2022](https://github.com/Biol551-CSUN/Spring-2022)  
-**Description:** Weekly projects will be committed in this repository weekly for the class. Summaries are included every time. Each week, new folder will be made along with the **three folders (Data, Output, Scripts)** for easy accessibility.
+**Description:** Weekly projects will be committed in this repository weekly. Summaries are included every time. Each week, new folder will be made along with the **three folders (Data, Output, Scripts)** for easy accessibility.
 
 ![R Studio Environment](https://www.datasciencecentral.com/wp-content/uploads/2021/10/RStudio.png) 
 > _"Learning another language is not only learning different words for the same things, but learning another way to think about things."_  
