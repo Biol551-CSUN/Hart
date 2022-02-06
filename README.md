@@ -14,7 +14,7 @@
 * **Output**
 * **Scripts:** [Week2b.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_2/Scripts/Week2b.R)  
 
-**Summary:** The data used this week was copied from the class's folder. This data outlines the **wide data** and not long. I made a new script and pushed that to my repository. Along that, I learned **6 functions**. Output folder did not show as the project was committed because there was nothing on that folder. In short, **no data means no folder**.  
+**Summary:** The data used this week was copied from the class's repository (specifically for this week). This data outlines the **wide data** and not long. I made a new script and pushed that to my repository. Along that, I learned **6 functions**. Output folder did not show as the project was committed because there was nothing on that folder. In short, **no data means no folder**.  
 
 **2. Week_3**
 * **Data:** 
