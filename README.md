@@ -1,21 +1,22 @@
 # Hart
-## BIOL551: Computer Modeling - _Spring 2022_
-**Created by:** Joynaline Hart  
+**BIOL551:** Computer Modeling - _Spring 2022 CSUN_  
+**Created by:** Joynaline Hart - _student_  
 **Class's repository:** [Spring-2022](https://github.com/Biol551-CSUN/Spring-2022)  
-**Description:** Weekly projects will be committed in this repository with the **three subfolders (Data, Output, Scripts)** for easy accessibility and organization. Summaries are also included. 
+**Description:** In here, weekly projects will be committed into this repository with the **three subfolders (Data, Output, Scripts)** for easy accessibility and organization.  
+> _**For my own notes**, I added summaries for each week. (Kaya-mukat)_  
+> This is my first time learning Rstudio and using Github. If you have any ideas on how I can make every project easier or tidier, I am open to suggestions. Thank you. :)
 
-![R Studio Environment](https://www.datasciencecentral.com/wp-content/uploads/2021/10/RStudio.png) 
-> _"Learning another language is not only learning different words for the same things, but learning another way to think about things."_  
-> by Flora Lewis
----
-### FOLDERS
+**Professor:** [Dr. Nyssa Silbiger](https://github.com/njsilbiger)  
+**Teaching Assistant:** [Danielle Barnas](https://github.com/dbarnas)  
+
+# FOLDERS
 **1. NA (_Practice - test repository_)**
 * **Data: NA**
 * **Output: NA**
 * **Scripts: NA**
 
 **Committed: NA (_Learned 2022-02-01_)**  
-**Summary:** This folder is not available because the HART repository was not made yet along with the class's repository. However, an introduction to making a repository was initialized (set to public and checked the 'Add READMNE file'). The code was copied to RStudio (New Project/Version Control/Git). 
+**Summary:** This folder is not available because the **[HART repository](https://github.com/Biol551-CSUN/Hart)** was not made yet along with the **[class's repository](https://github.com/Biol551-CSUN/Spring-2022)**. However, an introduction to making a repository was initialized (set to public and checked the 'Add READMNE file'). The code was copied to RStudio (New Project/Version Control/Git). 
 > **Class's activity/tasks**
 >> Version-control your repository  
 >> Pull, Add, Commit, Push
@@ -47,3 +48,10 @@
 
 **Committed:**  
 **Summary:**
+
+
+
+# Space for other stuffs
+> _"Learning another language is not only learning different words for the same things, but learning another way to think about things."_  
+> by Flora Lewis
+![Rstudio](https://r4epis.netlify.app/images/RStudio_overview.PNG)
