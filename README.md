@@ -12,7 +12,7 @@
 **Teaching Assistant:** [Danielle Barnas](https://github.com/dbarnas)  
 
 # FOLDERS
-**1. NA (_Practice - test repository_)**
+**1. NA (_test repository_)**
 * **Data: NA**
 * **Output: NA**
 * **Scripts: NA**
