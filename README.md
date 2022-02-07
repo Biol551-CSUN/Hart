@@ -2,7 +2,7 @@
 ## BIOL551: Computer Modeling - _Spring 2022_
 **Created by:** Joynaline Hart  
 **Class's repository:** [Spring-2022](https://github.com/Biol551-CSUN/Spring-2022)  
-**Description:** Weekly projects will be committed in this repository with the **three folders (Data, Output, Scripts)** for easy accessibility and organization. Summaries are also included. 
+**Description:** Weekly projects will be committed in this repository with the **three subfolders (Data, Output, Scripts)** for easy accessibility and organization. Summaries are also included. 
 
 ![R Studio Environment](https://www.datasciencecentral.com/wp-content/uploads/2021/10/RStudio.png) 
 > _"Learning another language is not only learning different words for the same things, but learning another way to think about things."_  
@@ -14,7 +14,7 @@
 * **Output: NA**
 * **Scripts: NA**
 
-**Committed: NA (_Learned - Week2a_)**  
+**Committed: NA (_Learned 2022-02-01_)**  
 **Summary:** This folder is not available because the HART repository was not made yet along with the class's repository. However, an introduction to making a repository was initialized (set to public and checked the 'Add READMNE file'). The code was copied to RStudio (New Project/Version Control/Git). 
 > **Class's activity/tasks**
 >> Version-control your repository  
@@ -37,4 +37,13 @@
 * **Output:** 
 * **Scripts:** 
 
+**Committed:**  
+**Summary:**
+
+**4. Week_4**
+* **Data:** 
+* **Output:** 
+* **Scripts:** 
+
+**Committed:**  
 **Summary:**
