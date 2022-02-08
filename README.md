@@ -44,7 +44,7 @@
 **Summary:**
 > **Class's activity/tasks**
 >> * **Tuesday:** I did my first [ggplot2](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week_3a.R). This was not graded, but it was a good way to practice the PACP.  
->> _(Note to self: pull ka always sa folder kung asa nimo ganahan i-add. Sunod, adto kas Week3 folder nimo para ma push ang tanan. Question = will that also push this script?)_
+>> _(Note to self: pull ka always sa folder kung asa nimo ganahan i-add. Sunod, adto kas Week3 folder nimo para ma push ang tanan. Question = will that also push this script? No kay lahi ang name)_
 
 **4. Week_4**
 * **Data:** 
