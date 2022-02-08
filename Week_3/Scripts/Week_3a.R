@@ -9,7 +9,7 @@ library(tidyverse) #Do this every time, be sure you are in the line and hit run
 library(palmerpenguins) #Calling palmerpenguins from the tidyverse -- install the palmerpenguins first
 
 ### Data analysis #####
-glimpse(penguins) #visualize the data, tells you the DATA TYPES -- factors, double, integer
+glimpse(penguins) #visualize the data, tells you the DATA TYPES -- factors, double, integer 
 
 ### ggplot line  #####
 ggplot(data=penguins,                      #I am getting ready to plot the penguin data -- but idk which is which yet -- gray screen (PLOTS) in lower right
