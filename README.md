@@ -4,13 +4,15 @@
 **Class's repository:** [Spring-2022](https://github.com/Biol551-CSUN/Spring-2022)  
 **Description:** In here, weekly projects will be committed into this repository with the **three subfolders (Data, Output, Scripts)** for easy accessibility and organization.  
 > _**For my own notes**, I added summaries for each week. (Kaya-mukat)_  
+> _**Practice folder:** This is where I redo the lab works. Comment sections contain my own dialect. Again, this is just for me._  
+> 
 > This is my first time learning Rstudio and using Github. If you have any ideas on how I can make every project easier or tidier, I am open to suggestions. Thank you. :)
 
 **Professor:** [Dr. Nyssa Silbiger](https://github.com/njsilbiger)  
 **Teaching Assistant:** [Danielle Barnas](https://github.com/dbarnas)  
 
 # FOLDERS
-**1. NA (_Practice - test repository_)**
+**1. NA (_test repository_)**
 * **Data: NA**
 * **Output: NA**
 * **Scripts: NA**
