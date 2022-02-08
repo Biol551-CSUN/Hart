@@ -2,7 +2,7 @@
 ### This is my first ggplot2 from Week3 -- Tuesday Lab
 ### Created by: Joynaline Hart
 ### Created on: 2022-02-08
-###############################################################
+############################################################### 
 
 ### Load libraries #####
 library(tidyverse) #Do this every time, be sure you are in the line and hit run
