@@ -44,9 +44,15 @@
 >> _(Note to self: pull ka always sa folder kung asa nimo ganahan i-add. Sunod, adto kas Week3 folder nimo para ma push ang tanan. Question = will that also push this script? No kay lahi ang name)_
 
 **4. Week_4**
-* **Data:** 
-* **Output:** 
-* **Scripts:** 
+| Data | Output  | Scripts |Installed  | Functions | Git Commands |
+| ---- |---------| ------- |:---------:|:---------:|:------------:|
+|      |      | |||| 
 
-**Committed:**  
+**Summary:**
+
+**5. Week_5**
+| Data | Output  | Scripts |Installed  | Functions | Git Commands |
+| ---- |---------| ------- |:---------:|:---------:|:------------:|
+|      |      | |||| 
+
 **Summary:**
