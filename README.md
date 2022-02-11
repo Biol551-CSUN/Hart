@@ -46,7 +46,11 @@
 **4. Week_4**
 | Data | Output  | Scripts |Installed  | Functions | Git Commands |
 | ---- |---------| ------- |:---------:|:---------:|:------------:|
-|      |      | |||| 
+|      |      | |`install.packages("praise")` |`geom_smooth()`|| 
+|      |      | |`install.packages('devtools')` |`scale_blah_bleh`|| 
+|      |      | |`devtools::install_github("dill/beyonce")`|`coord_flip()` `coord_fixed()`|| 
+|      |      | |`install.packages("ggthemes")`|`theme_blah()`|| 
+
 
 **Summary:**
 
