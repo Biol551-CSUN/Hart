@@ -23,9 +23,11 @@
 
 
 **2. Week_2** <a name = "week2b"></a>
-| Data | Output  | Scripts |Installed  | Functions | Git Commands |
-| ---- |---------| ------- |:---------:|:---------:|:------------:|
-|[weightdata.csv](https://github.com/Biol551-CSUN/Hart/blob/main/Week_2/Data/weightdata.csv)| NA |[Week2b.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_2/Scripts/Week2b.R)|NA|_add here_| NA | 
+| Data | Output  | Scripts |Installed  | Functions | 
+| ---- |---------| ------- |:---------:|:---------:|
+|[weightdata.csv](https://github.com/Biol551-CSUN/Hart/blob/main/Week_2/Data/weightdata.csv)| NA |[Week2b.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_2/Scripts/Week2b.R)|`git`| `here::here()`|
+|    |       |       |`install.packaghes("PackageName")` `install.packages("here")`|`library()`| 
+|    |       |       |`install.packaghes("tidyverse")`|`head(WeightData)` `tail(WeightData` `View(WeightData)`| 
 
 **Summary:** The **_Output folder_** was created but was not seen when pushed. In short, **no data means no folder**. The .csv file contain a **wide data** and not the long data. 
 > **Class's activity/tasks**  
@@ -34,9 +36,10 @@
 >> 3. Edit your readme file to say something useful about your repository
 
 **3. Week_3** <a name = "week3a"></a>
-| Data | Output  | Scripts |Installed  | Functions | Git Commands |
-| ---- |---------| ------- |:---------:|:---------:|:------------:|
-| NA       | NA          | [Week3a.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week_3a.R)|NA|NA|NA| 
+| Data | Output  | Scripts |Installed  | Functions | 
+| ---- |---------| ------- |:---------:|:---------:|
+| [Week3a.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week3a.R)| NA          | [Week3a.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week_3a.R)|`install.packages("palmerpenguins")`|`ggplot()` `geom_point()` `aes()` `glimpse(penguins)` `geom_jitter()` `labs()` `facet_grid(~)` `facet_wrap(~,ncol=[integer])` `guides(color=FALSE)` | 
+| [Week3b_LAB.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week3b_LAB.R)     |      | |`install.packages("praise")` `install.packages('devtools')` `coord_xxx()`|`geom_smooth()` `library(praise)` `praise()` `scale_xx_xxx()`|
 
 **Summary:**
 > **Class's activity/tasks** 
@@ -44,19 +47,19 @@
 >> _(Note to self: pull ka always sa folder kung asa nimo ganahan i-add. Sunod, adto kas Week3 folder nimo para ma push ang tanan. Question = will that also push this script? No kay lahi ang name)_
 
 **4. Week_4**
-| Data | Output  | Scripts |Installed  | Functions | Git Commands |
-| ---- |---------| ------- |:---------:|:---------:|:------------:|
-|      |      | |`install.packages("praise")` |`geom_smooth()`|| 
-|      |      | |`install.packages('devtools')` |`scale_blah_bleh`|| 
-|      |      | |`devtools::install_github("dill/beyonce")`|`coord_flip()` `coord_fixed()`|| 
-|      |      | |`install.packages("ggthemes")`|`theme_blah()`|| 
+| Data | Output  | Scripts |Installed  | Functions | 
+| ---- |---------| ------- |:---------:|:---------:|
+|      |      | |`install.packages("praise")` |`geom_smooth()`| 
+|      |      | |`install.packages('devtools')` |`scale_blah_bleh`| 
+|      |      | |`devtools::install_github("dill/beyonce")`|`coord_flip()` `coord_fixed()`|
+|      |      | |`install.packages("ggthemes")`|`theme_blah()`| 
 
 
 **Summary:**
 
 **5. Week_5**
-| Data | Output  | Scripts |Installed  | Functions | Git Commands |
-| ---- |---------| ------- |:---------:|:---------:|:------------:|
-|      |      | |||| 
+| Data | Output  | Scripts |Installed  | Functions | 
+| ---- |---------| ------- |:---------:|:---------:|
+|      |      | ||| 
 
 **Summary:**
