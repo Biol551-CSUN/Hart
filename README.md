@@ -37,9 +37,9 @@
 
 **3. Week_3** <a name = "week3a"></a>
 | Data | Output  | Scripts |Installed  | Functions | 
-| ---- |---------| ------- |:---------:|:---------:|
-| [Week3a.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week3a.R)| NA          | [Week3a.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week_3a.R)|`install.packages("palmerpenguins")`|`ggplot()` `geom_point()` `aes()` `glimpse(penguins)` `geom_jitter()` `labs()` `facet_grid(~)` `facet_wrap(~,ncol=[integer])` `guides(color=FALSE)` | 
-| [Week3b_LAB.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week3b_LAB.R)     |      | |`install.packages("praise")` `install.packages('devtools')` `coord_xxx()`|`geom_smooth()` `library(praise)` `praise()` `scale_xx_xxx()`|
+| :----: |:---------:| :-------: |:---------:|:---------:|
+| `install.packages("palmerpenguins")`| NA | [Week3a.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week_3a.R)|NA|`ggplot()` `geom_point()`               `aes()` `glimpse(penguins)` `geom_jitter()` `labs()` `facet_grid(~)` `facet_wrap(~)` `guides(color=FALSE)` | 
+| NA |   [YearvsMass](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Output/Week3b_LAB_YearvsMass.png)   | [Week3b_LAB.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week3b_LAB.R)     |`install.packages("praise")` `install.packages('devtools')` `coord_xxx()`|`geom_smooth()` `library(praise)` `praise()` `scale_xx_xxx()`|
 
 **Summary:**
 > **Class's activity/tasks** 
@@ -49,10 +49,7 @@
 **4. Week_4**
 | Data | Output  | Scripts |Installed  | Functions | 
 | ---- |---------| ------- |:---------:|:---------:|
-|      |      | |`install.packages("praise")` |`geom_smooth()`| 
-|      |      | |`install.packages('devtools')` |`scale_blah_bleh`| 
-|      |      | |`devtools::install_github("dill/beyonce")`|`coord_flip()` `coord_fixed()`|
-|      |      | |`install.packages("ggthemes")`|`theme_blah()`| 
+|      |      | ||| 
 
 
 **Summary:**
