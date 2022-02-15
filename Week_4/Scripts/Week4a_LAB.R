@@ -49,7 +49,7 @@ penguins %>%
                                 color = "darkred",
                                 face = "bold"),
         panel.background=element_rect(fill="linen")) +
-  labs(title = "Species' Body Mass from different Islands",
+  labs(title = "Penguins' Body Mass from different Islands",
        subtitle = "Analyzing body mass of each species present",
        x = "Island", 
        y = "Log(10) body mass (g)")
