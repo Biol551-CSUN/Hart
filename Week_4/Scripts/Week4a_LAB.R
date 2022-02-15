@@ -24,35 +24,34 @@ penguins_meanvar <- penguins %>% #calling out penguin dataframe
 view(penguins_meanvar)
 
 ### Filter out male penguins #####
-penguins %>% 
-  filter (sex=="female") %>% 
-  mutate (log_mass = log(body_mass_g)) %>% 
-  select (Species = species, Island = island, Sex = sex, log_mass) %>% 
-  ggplot (aes(x=Island, 
-              y=log_mass,
-              fill = Species)) +
-  geom_bar(stat="identity") +
-  coord_flip() +
-  theme(axis.text = element_text(size = 11, 
+penguins %>% #calling out penguin dataframe
+  filter (sex=="female") %>%  #filtering female and leaving male
+  mutate (log_mass = log(body_mass_g)) %>% #calculating for logmass
+  select (Species = species, Island = island, Sex = sex, log_mass) %>% #selecting only certain columns; changing s to S and so on
+  ggplot (aes(x=Island, #setting x equal to Island
+              y=log_mass, #setting y equal to log mass
+              fill = Species)) + #coloring the Species
+  geom_bar(stat="identity") + #making a bar graph
+  coord_flip() + #flipping the coordinate
+  theme(axis.text = element_text(size = 11,  #apply to every texts seen
                                  color = "black", 
                                  face = "bold"),
-        axis.line = element_line(color = "darkblue",
+        axis.line = element_line(color = "darkblue", #specific for axis line 
                                  size = 1,
                                  linetype = "solid"),
-        plot.title = element_text(color = "darkred", 
+        plot.title = element_text(color = "darkred", #changing the plot title's color and adjusting its placement
                                   hjust = 0.5),
-        plot.subtitle = element_text(color="black", 
+        plot.subtitle = element_text(color="black",  #changing the subtitle's color and adjusting its placement; changed size and bolded it
                                      size = 11, 
                                      face = "bold", 
                                      hjust = 0.5),
-        axis.title=element_text(size=15,
-                                color = "darkred",
-                                face = "bold"),
-        panel.background=element_rect(fill="linen")) +
-  labs(title = "Penguins' Body Mass from different Islands",
-       subtitle = "Analyzing body mass of each species present",
-       x = "Island", 
-       y = "Log(10) body mass (g)")
+        axis.title=element_text(size=15,            #changing the axis title's color and bolding it
+                                color = "darkred"),
+        panel.background=element_rect(fill="linen")) + #changing the background to linen
+  labs(title = "Penguins' Body Mass from different Islands",  #setting what the title is
+       subtitle = "Analyzing body mass of each species present", #setting what the subtitle says
+       x = "Island", #setting what the x-axis is all about
+       y = "Log(10) body mass (g)") #setting what the y-axis is all about
 
-ggsave(here("Week_4", "Output", "Week4_Penguiun_Bodymass_vs_Island.png"),
-       width=7, height=5)
+ggsave(here("Week_4", "Output", "Week4_Penguiun_Bodymass_vs_Island.png"),  #saving the plot
+       width=7, height=5)   #setting the size of the plot
