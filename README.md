@@ -8,35 +8,38 @@
 **Teaching Assistant:** [Danielle Barnas](https://github.com/dbarnas)  
 
 # TABLE OF CONTENTS
-1. [2022-02-01(t) - test respository](#week1b)
-2. [2022-02-03(th) - first script](#week2b) :hibiscus:
+1. [2022-01-27(th) - what is data](#week1a)
+2. [2022-02-01(t) - test respository](#week2a)  
+   [2022-02-03(th) - first script](#week2b) :hibiscus:
 4. [2022-02-09(t) - first ggplot2](#week3a)
 
 
 # FOLDERS
-**1. NA** <a name = "week1b"></a>
+**1. NA** <a name = "week1a"></a>
 | Data | Output  | Scripts |Installed  | Functions | Git Commands |
 | ---- |---------| ------- |:---------:|:---------:|:------------:|
-| NA   | NA      | NA      |NA         |NA         |`git pull` `git add -a -m ""` `git commit` `git push`| 
+| NA   | NA      | NA      |NA         |NA         |NA        | 
 
-**Summary:** Introduction to making a repository was initialized (set to public and checked the 'Add READMNE file'). The code was copied to RStudio (New Project/Version Control/Git). 
+**Summary:** T = Introduction to R and Rstudio. TH = Introduction to reproducible and transparent data science
 
 
-**2. Week_2** <a name = "week2b"></a>
-| Data | Output  | Scripts |Installed  | Functions | Git Commands |
+**2. Week_2** <a name = "week2a"></a> <a name = "week2b"></a>
+| Data | Output  | Scripts |Installed  | Functions |  Git Commands |
 | ---- |---------| ------- |:---------:|:---------:|:------------:|
-|[weightdata.csv](https://github.com/Biol551-CSUN/Hart/blob/main/Week_2/Data/weightdata.csv)| NA |[Week2b.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_2/Scripts/Week2b.R)|NA|_add here_| NA | 
+| NA   | NA      | NA      |NA         |NA         |`git pull` `git add -a -m ""` `git commit` `git push`|
+|[weightdata.csv](https://github.com/Biol551-CSUN/Hart/blob/main/Week_2/Data/weightdata.csv)| NA |[Week2b.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_2/Scripts/Week2b.R)|`git` `install.packaghes("PackageName")` `install.packages("here")` `install.packaghes("tidyverse")`| `here::here()` `library()` `head(WeightData)` `tail(WeightData` `View(WeightData)`|NA|
 
-**Summary:** The **_Output folder_** was created but was not seen when pushed. In short, **no data means no folder**. The .csv file contain a **wide data** and not the long data. 
+**Summary:** T = Introduction to making a repository was initialized (set to public and checked the 'Add READMNE file'). The code was copied to RStudio (New Project/Version Control/Git). TH = The **_Output folder_** was created but was not seen when pushed. In short, **no data means no folder**. The .csv file contain a **wide data** and not the long data. 
 > **Class's activity/tasks**  
 >> 1. Push the Week_2 folder with your first script and associated data onto your personal GitHub repository
 >> 2. Complete the [Online Markdown Tutorial](https://www.markdowntutorial.com/)
 >> 3. Edit your readme file to say something useful about your repository
 
 **3. Week_3** <a name = "week3a"></a>
-| Data | Output  | Scripts |Installed  | Functions | Git Commands |
-| ---- |---------| ------- |:---------:|:---------:|:------------:|
-| NA       | NA          | [Week3a.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week_3a.R)|NA|NA|NA| 
+| Data | Output  | Scripts |Installed  | Functions | 
+| :----: |:---------:| :-------: |:---------:|:---------:|
+| `install.packages("palmerpenguins")`| NA | [Week3a.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week_3a.R)|NA|`ggplot()` `geom_point()`               `aes()` `glimpse(penguins)` `geom_jitter()` `labs()` `facet_grid(~)` `facet_wrap(~)` `guides(color=FALSE)` | 
+| NA |   [YearvsMass](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Output/Week3b_LAB_YearvsMass.png)   | [Week3b_LAB.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week3b_LAB.R)     |`install.packages("praise")` `install.packages('devtools')` `coord_xxx()` `devtools::install_github("dill/beyonce")` `install.packages("ggthemes")`|`geom_smooth()` `library(praise)` `praise()` `scale_xx_xxx()` `library(beyonce)` `library(ggthemes)`|
 
 **Summary:**
 > **Class's activity/tasks** 
@@ -44,15 +47,16 @@
 >> _(Note to self: pull ka always sa folder kung asa nimo ganahan i-add. Sunod, adto kas Week3 folder nimo para ma push ang tanan. Question = will that also push this script? No kay lahi ang name)_
 
 **4. Week_4**
-| Data | Output  | Scripts |Installed  | Functions | Git Commands |
-| ---- |---------| ------- |:---------:|:---------:|:------------:|
-|      |      | |||| 
+| Data | Output  | Scripts |Installed  | Functions | 
+| ---- |---------| ------- |:---------:|:---------:|
+|      |      | ||| 
+
 
 **Summary:**
 
 **5. Week_5**
-| Data | Output  | Scripts |Installed  | Functions | Git Commands |
-| ---- |---------| ------- |:---------:|:---------:|:------------:|
-|      |      | |||| 
+| Data | Output  | Scripts |Installed  | Functions | 
+| ---- |---------| ------- |:---------:|:---------:|
+|      |      | ||| 
 
 **Summary:**
