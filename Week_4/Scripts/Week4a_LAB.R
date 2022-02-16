@@ -21,7 +21,7 @@ penguins_meanvar <- penguins %>% #calling out penguin dataframe
                       drop_na(sex) %>% #removing NAs from sex
                       summarise(mean_body_mass = mean(body_mass_g, na.rm=TRUE), #calculating mean from body mass
                       variance_body_mass = var(body_mass_g, na.rm=TRUE)) #calculating variance from body mass
-view(penguins_meanvar)
+view(penguins_meanvar)   #viewing the object done above
 
 ### Filter out male penguins #####
 penguins %>% #calling out penguin dataframe
