@@ -11,7 +11,9 @@
 1. [2022-01-27(th) - what is data](#week1a)
 2. [2022-02-01(t) - test respository](#week2a)  
    [2022-02-03(th) - first script](#week2b) :hibiscus:
-4. [2022-02-09(t) - first ggplot2](#week3a)
+3. [2022-02-09(t) - first ggplot2](#week3a)  
+   [2022-02-11(th) - ggplot2 with the group)](#week3b)
+4. [2022-02-15(t) - thepipe, dplyr](#week4a)
 
 
 # FOLDERS
@@ -44,7 +46,7 @@
 >> 2. Complete the [Online Markdown Tutorial](https://www.markdowntutorial.com/)
 >> 3. Edit your readme file to say something useful about your repository
 
-**3. Week_3** <a name = "week3a"></a>
+**3. Week_3** <a name = "week3a"></a> <a name = "week3b"></a>
 | Data | Output  | Scripts |
 | :----: |:---------:| :-------: |
 | `install.packages("palmerpenguins")`| NA | [Week3a.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_3/Scripts/Week_3a.R)|
@@ -61,7 +63,7 @@
 >> _(Note to self: pull ka always sa folder kung asa nimo ganahan i-add. Sunod, adto kas Week3 folder nimo para ma push ang tanan. Question = will that also push this script? No kay lahi ang name)_
 >> * **Thursday:** ggplot2 with the group (graded)
 
-**4. Week_4**
+**4. Week_4** <a name = "week4a"></a>
 | Data | Output  | Scripts |
 | ---- |---------| ------- |
 |      | [Week4a_LAB_Output](https://github.com/Biol551-CSUN/Hart/blob/main/Week_4/Output/Week4_Penguiun_Bodymass_vs_Island.png)| [Week4a_LAB.R](https://github.com/Biol551-CSUN/Hart/blob/main/Week_4/Scripts/Week4a_LAB.R)|
