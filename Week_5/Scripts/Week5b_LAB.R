@@ -57,6 +57,7 @@ CombData <- inner_join (CondData, DepthData) %>% #inner_join keeps every data an
 
 view (CombData) #viewing how the data looks like 
 
+
   ##Step5: make plot using the averaged data
     ##notes -- ggplot?; save?
 CombData %>% #calling out the CombData dataframe
@@ -72,18 +73,16 @@ CombData %>% #calling out the CombData dataframe
   theme_bw() + #setting the theme to be black and white
   facet_grid (~Hours, scale = "free") + #wrapping 
   labs(title="Plot of saline average by depth average", #giving a title to the plot
+       subtitle="Highlighting each hour from 9AM-13PM",
        x="Depth Average", #giving a definition for the x-axis
        y = "Saline Average (salinity in situ)") + #giving a definition for the y-axis
   theme(strip.text = element_text(color = "brown", #manipulating how the strip text's color 
                                   hjust = 0.5, #adjusting the strip text's distance -- setting it to center
                                   size = 15),  #setting the size 
         text = element_text (family = "serif", #changing the font to serif
-                             face = "bold", #bolding any texts seen
-                             size = 14), #setting the size to b e14
-        plot.caption = element_text(color = "darkgray", #setting the caption's color to darkgray 
-                                    size = 11, #setting the size to 11 
-                                    face = "italic", #setting the plot caption to italic to be different from others
-                                    hjust = 0.5)) #setting the arrangement to the middle
+                             size = 14), #setting the size to be 14
+        plot.subtitle = element_text(color="black", #plot subtitle's color is changed
+                                     size = 12)) #size is change to 11 which is lower than the plot title 
 
 ggsave(here("Week_5", "Output", "Week5b_DepthavgvsSalineAvg.png"), #saving the plot
        width=20, height=7) #setting the size of my plot
